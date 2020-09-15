@@ -352,7 +352,7 @@ function showCoordinates(position) {
  */
 if (!map.restoreView()) {
 //    map.fitBounds([[75,-160], [-45,160]]); // almost full world
-    map.fitBounds([[55.3000,61.0500], [54.6000,61.9000]]); // almost chelyabinsk
+    map.fitBounds([[55.3000,61.1000], [54.6000,61.5000]]); // almost chelyabinsk
 }
 
 /*
